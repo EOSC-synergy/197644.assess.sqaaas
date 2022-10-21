@@ -1,5 +1,5 @@
 services:
-  qc.fair_nerdy-maroon-seahorse:
+  qc.fair_geeky-jade-hornet:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
