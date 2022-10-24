@@ -14,5 +14,5 @@ sqa_criteria:
         commands:
         - fair-eva.py -ID 10261/197644 -R oai-pmh -B http://digital.csic.es/dspace-oai/request
           --tool_endpoint http://localhost:9090/v1.0/rda/rda_all
-        container: qc.fair_muzzy-ivory-llama
+        container: qc.fair_woozy-bistre-abyssinian
 timeout: 5400

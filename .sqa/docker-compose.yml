@@ -1,5 +1,5 @@
 services:
-  qc.fair_muzzy-ivory-llama:
+  qc.fair_woozy-bistre-abyssinian:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
