@@ -1,5 +1,5 @@
 services:
-  qc.fair_fuzzy-pink-eel:
+  qc.fair_cranky-black-hummingbird:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
