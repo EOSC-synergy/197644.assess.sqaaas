@@ -1,5 +1,5 @@
 services:
-  qc.fair_queasy-bronze-dollar:
+  qc.fair_wimpy-sepia-octopus:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
