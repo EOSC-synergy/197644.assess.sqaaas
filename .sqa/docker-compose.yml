@@ -1,5 +1,5 @@
 services:
-  qc.fair_flaky-violet-catfish:
+  qc.fair_queasy-bronze-dollar:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
