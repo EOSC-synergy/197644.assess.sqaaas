@@ -1,5 +1,5 @@
 services:
-  qc.fair_pasty-cyan-cattle:
+  qc.fair_frumpy-puce-reindeer:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
