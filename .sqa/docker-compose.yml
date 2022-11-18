@@ -1,5 +1,5 @@
 services:
-  qc.fair_hazy-olivine-dhole:
+  qc.fair_messy-yellow-frigatebird:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
