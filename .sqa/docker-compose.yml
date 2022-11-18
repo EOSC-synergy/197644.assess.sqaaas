@@ -1,5 +1,5 @@
 services:
-  qc.fair_stuffy-fuchsia-goose:
+  qc.fair_gloppy-sapphire-frigatebird:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
