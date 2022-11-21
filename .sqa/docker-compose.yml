@@ -1,5 +1,5 @@
 services:
-  qc.fair_lousy-malachite-ant:
+  qc.fair_jumpy-green-armadillo:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
