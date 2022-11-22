@@ -1,5 +1,5 @@
 services:
-  qc.fair_flimsy-taupe-baboon:
+  qc.fair_chummy-coral-grouse:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
