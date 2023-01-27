@@ -1,5 +1,5 @@
 services:
-  qc.fair_greasy-rose-bulldog:
+  qc.fair_grumpy-violet-yak:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
