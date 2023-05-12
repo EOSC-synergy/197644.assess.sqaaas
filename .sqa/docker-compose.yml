@@ -1,6 +1,6 @@
 services:
   qc.fair_sleepy-amaranth-cockroach:
-    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha1
+    image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
       target: /sqaaas-build
