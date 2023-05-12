@@ -1,5 +1,5 @@
 services:
-  qc.fair_pokey-teal-bongo:
+  qc.fair_squeaky-aquamarine-dormouse:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
