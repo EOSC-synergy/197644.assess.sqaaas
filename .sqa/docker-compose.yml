@@ -1,5 +1,5 @@
 services:
-  qc.fair_squeaky-aquamarine-dormouse:
+  qc.fair_pasty-cinnamon-buzzard:
     image: eoscsynergy/sqaaas-fair_eva:1.7.10-alpha2
     volumes:
     - source: ./
