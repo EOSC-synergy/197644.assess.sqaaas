@@ -13,7 +13,6 @@ pipeline {
         stage('SQA baseline criterion: QC.FAIR') {
             when {
                 anyOf {
-                    expression { currentBuild.previousCompletedBuild == null }
                     changeset ".sqa/*"
                     changeset "Jenkinsfile"
                 }
